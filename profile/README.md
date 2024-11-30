@@ -1,4 +1,6 @@
 
+![Hype Community - Banner2](https://github.com/user-attachments/assets/7add585c-5edb-4ccc-bed2-02a04fe654ef)
+
 <h3 align="center">Welcome to the Hyperliquid Community - A Community Project</h3>
 
 <h3 align="center">Designed by the community, for the community.</h3>
